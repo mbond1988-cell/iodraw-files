@@ -1,0 +1,196 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="1426" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1745" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1764" target="1749" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1746" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1771" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1748" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1771" target="1753" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1749" value="&lt;p style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;margin-left:0in&quot;&gt;Обратная связь на заявку и получение счёта&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="520" y="300" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1750" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1753" target="1756" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1752" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1753" target="1754" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1753" value="&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Поверка&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="520" y="751" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1754" value="идентификация оборудования через RFID метку или QR, отсутствие необходимости предоставлять бумажные версии паспорта, РЭ, методики поверки" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="740" y="640" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1756" value="&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;language:ru&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;И&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;language:ru&quot;&gt;дентификация&lt;br&gt;оборудования по приложенным документам (РЭ, паспорт, методика поверки) перед поверкой&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="640" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1757" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1763" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1759" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1760" value="&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Внесение данных в Аршин&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1020" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1763" value="&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;language:ru&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;text-indent: -0.38in; background-color: initial; font-size: 10pt;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Поверитель&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -0.38in; background-color: initial; font-size: 10pt;&quot;&gt;вносит данные в аршин. Когда это произойдёт никто не знает и не&amp;nbsp;сообщает, даты внесения в Аршин в самом Аршине нет, но есть чёткие&amp;nbsp;законодательно установленные сроки на обновлении данных по СИ во ФГИС ФСА.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -0.38in; background-color: initial; font-size: 10pt;&quot;&gt;Приходится постоянно проверять эти данные в Аршине вручную&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1000" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1764" value="&lt;p style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;margin-left:0in&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Заявка на поверку&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="520" y="120" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1765" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Выбор в базе лабораторного оборудования предприятия списка СИ для поверки, импорт данных о нём из ДЭП и формирование электронной заявки в соответствующие ЦСМ и ГНМЦ (с возможностью выбора в зависимости от их области аккредитации)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="740" y="100" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1766" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1765" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1769" value="&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; text-indent: -0.38in;&quot; class=&quot;O0&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; text-indent: -0.38in;&quot; class=&quot;O0&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;У каждого ЦСМ и ГНМЦ своя форма заявки.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; text-indent: -0.38in;&quot; class=&quot;O0&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Данные, которые каждый раз заполнятся вручную, как минимум: наименование, тип СИ, зав.&amp;nbsp;номер, год выпуска, тип поверки, № ГРСИ.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; text-indent: -0.38in;&quot; class=&quot;O0&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Заявка бывает в бумажном или в&lt;br&gt;электронном виде&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1770" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1769" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1771" value="&lt;span style=&quot;text-indent: -36.48px;&quot;&gt;Подтверждение предлагаемых услуг со стороны заказчика и назначение даты поверки&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="520" y="480" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1772" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Уведомление в личном кабинете о статусе заявки&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Согласование услуг и их стоимости в личном кабинете как со стороны исполнителя, так и со стороны заказчика.&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Выбор и согласование возможных дат и времени визита поверителя или запись в отдел приёмки для сдачи СИ на поверку&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="740" y="370" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1773" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1778" value="&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;language:ru&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Оплата счёта по предоплате или подтверждение стоимости работы при&amp;nbsp;постоплате&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;language:ru&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Если поверка в лаборатории, то звонок по телефону для уточнения даты визита&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="460" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1779" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1778" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1779" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Этапы поверки&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1780" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Сейчас&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1781" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;ДЭП&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1787" value="&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; text-indent: -0.38in; font-size: 14px;&quot; class=&quot;O0&quot;&gt;&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; text-indent: -0.38in;&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Отправка бумажной заявки по email не позволяет понять получена ли она ЦСМ или ГНМЦ. П&lt;span style=&quot;text-indent: -0.38in; background-color: initial;&quot;&gt;риходится держать в памяти, дублировать заявку или звонить,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -0.38in; background-color: initial;&quot;&gt;уточнять статус.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; text-indent: -0.38in;&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Электронная&amp;nbsp; форма заявки в личных кабинетах есть&amp;nbsp;&lt;span style=&quot;text-indent: -36.48px; background-color: initial;&quot;&gt;не у всех&lt;/span&gt;&lt;span style=&quot;text-indent: -0.38in; background-color: initial;&quot;&gt;&amp;nbsp;ЦСМ/ГНМЦ и она не единая.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1788" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1749" target="cDaIsRxxzUIUzGIAj8a9-1787">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="398" as="sourcePoint" />
+            <mxPoint x="580" y="448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1789" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1749">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="408" as="sourcePoint" />
+            <mxPoint x="730" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1790" value="~ 15 мин." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1792" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1753" target="1760">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="572" as="sourcePoint" />
+            <mxPoint x="610" y="668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1793" value="от 1 дня до недели" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="279" width="170" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1794" value="от 1 дня до недели" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="170" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1795" value="~15 минут" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="170" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1796" value="&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;~от 1 дня до 40 дней&lt;/div&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;(в среднем до 5 дней)&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1000" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1797" value="&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Обработка результатов&lt;br&gt;поверки в лаборатории&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e3c800;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1200" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1798" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1760" target="cDaIsRxxzUIUzGIAj8a9-1797">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="932" as="sourcePoint" />
+            <mxPoint x="610" y="1047" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1799" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Автоматическая синхронизация данных о поверке из ДЭП с ФГИС Аршин, ФГИС ФСА и&amp;nbsp;&lt;/span&gt;в базой лабораторного оборудования предприятия&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Вместо бумажной этикетки RFID или QR, которые ведут на ДЭП&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#2D7600;strokeWidth=3;fillColor=#60a917;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="749" y="1080" width="411" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1800" value="&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;language:ru&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;language:ru&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Входной контроль поверки (проверка на соответствие заявки,&lt;br&gt;методике поверки)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;language:ru&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Внесение данных в базу&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;language:en-US&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;language:ru&quot;&gt;лабораторного&lt;br&gt;оборудования (для учёта)&amp;nbsp; и формы&amp;nbsp;паспорта ИЛ (для ФСА)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;language:ru&quot;&gt;Замена бумажной этикетки на приборе&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;div style=&quot;language:en-GB;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:.38in;text-indent:-.38in&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;language:ru&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Внесение данных во ФГИС ФСА&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e3c800;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1180" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1801" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#B09500;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e3c800;" edge="1" parent="1" source="cDaIsRxxzUIUzGIAj8a9-1797">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1250" as="sourcePoint" />
+            <mxPoint x="740" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1802" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#B09500;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e3c800;" edge="1" parent="1" source="cDaIsRxxzUIUzGIAj8a9-1797" target="cDaIsRxxzUIUzGIAj8a9-1800">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="687" y="1260" as="sourcePoint" />
+            <mxPoint x="757" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1804" value="~ 40 мин." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1180" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1805" value="~ 0 мин." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="749" y="1080" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1806" value="~ 1 мин." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="640.5" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1807" value="~ 1 мин." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="370" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1809" value="~ 5 мин." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="90" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1811" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1753" target="cDaIsRxxzUIUzGIAj8a9-1815">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1812" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1753" target="cDaIsRxxzUIUzGIAj8a9-1814">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1814" value="Операции поверки" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="820" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1815" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;Операции поверки&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1816" value="~1 день" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="820" width="170" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cDaIsRxxzUIUzGIAj8a9-1817" value="~ 1 день" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="820.5" width="90" height="30.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
