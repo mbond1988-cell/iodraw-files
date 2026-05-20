@@ -7,6 +7,9 @@
         <mxCell id="gCgioBB2l_1XLxf1mCNV-1" value="&lt;br&gt;&lt;span style=&quot;font-size:10.0pt;font-family:&amp;lt;br/&amp;gt;&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-latin;&amp;lt;br/&amp;gt;color:black;background:yellow;mso-highlight:yellow;mso-ligatures:standardcontextual;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-GB;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;ISO 3104, EN ISO 3104, IP 71, &lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-fareast-theme-font:&amp;lt;br/&amp;gt;minor-latin;color:black;background:yellow;mso-highlight:yellow;mso-ligatures:&amp;lt;br/&amp;gt;standardcontextual;mso-ansi-language:RU;mso-fareast-language:EN-GB;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot; lang=&quot;RU&quot;&gt;ГОСТ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&amp;lt;br/&amp;gt;mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-latin;color:black;&amp;lt;br/&amp;gt;background:yellow;mso-highlight:yellow;mso-ligatures:standardcontextual;&amp;lt;br/&amp;gt;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:AR-SA&quot;&gt;53708&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="234" y="20" width="360" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gCgioBB2l_1XLxf1mCNV-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
