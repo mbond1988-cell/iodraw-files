@@ -16,8 +16,8 @@
         <mxCell id="gCgioBB2l_1XLxf1mCNV-4" value="1 вискозиметр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gCgioBB2l_1XLxf1mCNV-5" value="1 вискозиметр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="gCgioBB2l_1XLxf1mCNV-5" value="2 вискозиметра &lt;br&gt;(may be used = можно использовать)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
