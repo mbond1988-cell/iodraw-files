@@ -10,8 +10,11 @@
         <mxCell id="gCgioBB2l_1XLxf1mCNV-2" value="прозрачные" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gCgioBB2l_1XLxf1mCNV-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="gCgioBB2l_1XLxf1mCNV-3" value="непрозрачные" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gCgioBB2l_1XLxf1mCNV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
